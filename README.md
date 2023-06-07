@@ -34,3 +34,13 @@ XPVPer是一个基于Minecraft Java Edition 1.8.9，Forge，LabyMOD制作的整�
 [![pCFX5gx.png](https://s1.ax1x.com/2023/06/07/pCFX5gx.png)](https://imgse.com/i/pCFX5gx)
 
 [![pCFXO5d.png](https://s1.ax1x.com/2023/06/07/pCFXO5d.png)](https://imgse.com/i/pCFXO5d)
+
+## 还有更多等待挖掘。。。
+
+# 如何安装使用
+
+1. MCBBS整合包格式安装。含有HMCL的压缩包安装。
+   参照 [Releases](https://github.com/BlockHaity/XPVPer/releases) 给出的教程即可。
+
+2. 命令行安装
+   参照 [Runner分支](https://github.com/BlockHaity/XPVPer/tree/Runner) 进行操作即可
