@@ -1,0 +1,84 @@
+type = menu
+
+customization-meta {
+  identifier = net.labymod.gui.ModGuiIngameMenu
+  renderorder = foreground
+}
+
+customization {
+  identifier = %id=400354%
+  orientation = mid-left
+  x = 145
+  action = movebutton
+  y = 25
+}
+
+customization {
+  identifier = %id=400354%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400258%
+  orientation = mid-left
+  x = 145
+  action = movebutton
+  y = -44
+}
+
+customization {
+  identifier = %id=400258%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400306%
+  orientation = mid-left
+  x = 145
+  action = movebutton
+  y = 2
+}
+
+customization {
+  identifier = %id=400306%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400330%
+  orientation = mid-left
+  x = 145
+  action = movebutton
+  y = -21
+}
+
+customization {
+  identifier = %id=400282%
+  orientation = bottom-right
+  x = -102
+  action = movebutton
+  y = -90
+}
+
+customization {
+  identifier = %id=502330%
+  orientation = bottom-right
+  x = -102
+  action = movebutton
+  y = -44
+}
+
+customization {
+  identifier = %id=502282%
+  orientation = bottom-right
+  x = -102
+  action = movebutton
+  y = -67
+}
+
