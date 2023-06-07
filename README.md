@@ -5,4 +5,5 @@
   XPVPer
   <br>
 </h1>
-<h4 align="center">一个专注于PVP和优化的Minecraft整合包</h4>
+<h2 align="center">一个专注于PVP和优化的Minecraft整合包</h2>
+
