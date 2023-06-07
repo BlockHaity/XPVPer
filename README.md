@@ -15,16 +15,22 @@ XPVPer是一个基于Minecraft Java Edition 1.8.9，Forge，LabyMOD制作的整�
 
 # 有什么亮点
 
-*注：一下内容皆以原版作为比较*
+*注：以下内容皆以原版作为比较*
 
 ## 更加美观的UI
 
 [![pCFLKqe.png](https://s1.ax1x.com/2023/06/07/pCFLKqe.png)](https://imgse.com/i/pCFLKqe)
 
-原版UI
+*左侧为XPVPer右侧为原版Minecraft*
 
-[![pCFOeFs.png](https://s1.ax1x.com/2023/06/07/pCFOeFs.png)](https://imgse.com/i/pCFOeFs)
+[![pCFXaNj.png](https://s1.ax1x.com/2023/06/07/pCFXaNj.png)](https://imgse.com/i/pCFXaNj)
 
-XPVPer UI
+使用FancyMenu，Blur，LabyMOD等MOD实现。
 
-[![pCFOmYn.png](https://s1.ax1x.com/2023/06/07/pCFOmYn.png)](https://imgse.com/i/pCFOmYn)
+## 高度的可自定义性
+
+作者不封死包括FancyMenu的配置栏 ~~（虽然真的很丑）~~ ，UI资源包在内的所有自定义项，给用户完全的界面自由。
+
+[![pCFX5gx.png](https://s1.ax1x.com/2023/06/07/pCFX5gx.png)](https://imgse.com/i/pCFX5gx)
+
+[![pCFXO5d.png](https://s1.ax1x.com/2023/06/07/pCFXO5d.png)](https://imgse.com/i/pCFXO5d)
