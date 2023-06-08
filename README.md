@@ -44,3 +44,33 @@ XPVPer是一个基于Minecraft Java Edition 1.8.9，Forge，LabyMOD制作的整�
 
 2. 命令行安装
    参照 [Runner分支](https://github.com/BlockHaity/XPVPer/tree/Runner) 进行操作即可
+
+# 如何为此项目做贡献
+
+## 发现Bug
+
+发现Bug后在 [Discussions](https://github.com/BlockHaity/XPVPer/discussions) 内进行发帖讨论，获得解决方案后提交issuse。
+
+## 提出建议
+
+在 [Discussions](https://github.com/BlockHaity/XPVPer/discussions) 内提出你的建议，探讨出解决方案后提交Issuse
+
+## 直接动手改代码（PR）
+
+在根目录新建一个 `PR.md` 用来描述你做的改动和实现的功能，后提交PR
+
+## 为什么采用先讨论得到方案后再提交issuse的方式
+
+作者是一名学生，没有太多时间来探讨解决方案，并且作者不太会Java等语言。这样做就可以提升此项目修复Bug的速度。
+
+# 已知Bug
+
+## 在进入 **单人游戏** 或 **多人游戏** 界面后调整窗口大小会导致界面错位的问题。
+
+影响评级：高
+
+是否可以解决：否
+
+原因：该Bug是由FancyMenu所导致的，而适用于Minecraft 1.8.9 Forge的FancyMenu已经停更。无法通过除改源代码的方法修复。
+
+治标不治本的方案：先最大化窗口再进入 **单人游戏** 或 **多人游戏** 界面，在后续使用中尽量避免拉伸窗口。
