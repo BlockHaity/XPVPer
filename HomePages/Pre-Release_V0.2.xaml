@@ -1,0 +1,2 @@
+<local:MyHint Margin="0,8,0,2" IsWarn="False"
+    Text="该整合包正在Pre-Release阶段（可以理解为Beta测试），游玩时出现Bug请及时前往GitHub仓库的Discussions进行讨论后提交Issuse。" />
