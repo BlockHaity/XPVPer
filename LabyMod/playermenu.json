@@ -1,9 +1,0 @@
-{
-  "playerMenuEntries": [
-    {
-      "displayName": "邀请加入组队",
-      "command": "/party invite {name}",
-      "sendInstantly": true
-    }
-  ]
-}
