@@ -753,6 +753,31 @@
         "visibility": "DEFAULT",
         "itemSlot": "0"
       }
+    },
+    "DirectionHudModule": {
+      "enabled": [],
+      "regions": [
+        "TOP_LEFT",
+        "TOP_LEFT"
+      ],
+      "alignment": [
+        "DEFAULT",
+        "DEFAULT"
+      ],
+      "x": [
+        2.0,
+        0.0
+      ],
+      "y": [
+        4.0,
+        0.0
+      ],
+      "useExtendedSettings": false,
+      "scale": 100,
+      "attributes": {
+        "markerColor": "-43691",
+        "showWhileChat": "true"
+      }
     }
   },
   "moduleCategories": {
@@ -765,9 +790,9 @@
   "gridEnabled": false,
   "itemSlotGravity": true,
   "guiScale": 100,
-  "prefixColor": -22016,
-  "bracketsColor": -5592406,
-  "valuesColor": -1,
+  "prefixColor": -11940823,
+  "bracketsColor": -14062900,
+  "valuesColor": -3397237,
   "formattingBold": 0,
   "formattingItalic": 0,
   "formattingUnderline": 0,

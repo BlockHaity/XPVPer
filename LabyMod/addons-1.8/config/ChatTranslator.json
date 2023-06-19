@@ -1,0 +1,11 @@
+{
+  "config": {
+    "enabled": true,
+    "source": 0,
+    "lang": 0,
+    "icon": " \u00267[\u0026gT\u00267]",
+    "hover": false,
+    "delay": 2,
+    "apiKey": "CHANGE_ME"
+  }
+}

@@ -6,6 +6,3 @@ net.minecraft.client.gui.GuiMainMenu {
 net.labymod.gui.ModGuiIngameMenu {
 }
 
-net.minecraft.client.gui.GuiSelectWorld {
-}
-

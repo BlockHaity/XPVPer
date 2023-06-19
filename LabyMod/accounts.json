@@ -1,4 +1,6 @@
 {
   "accounts": {},
-  "client_token": "f748aca05f954e55a7256517cf26f0ed"
+  "client_token": "f748aca05f954e55a7256517cf26f0ed",
+  "encrypted": true,
+  "version": 1
 }
