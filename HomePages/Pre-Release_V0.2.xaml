@@ -1,2 +1,25 @@
-<local:MyHint Margin="0,8,0,2" IsWarn="False"
-    Text="该整合包正在Pre-Release阶段（可以理解为Beta测试），游玩时出现Bug请及时前往GitHub仓库的Discussions进行讨论后提交Issuse。" />
+<local:MyHint Margin="0,0,0,15" IsWarn="False"
+    Text="该整合包正在Pre-Release阶段（可以理解为Beta测试），游玩时出现Bug请及时前往项目主页的Discussions进行讨论后提交Issuse。" />
+
+<local:MyCard Title="关于XPXPer" Margin="0,0,0,15" CanSwap="True" >
+    <StackPanel Margin="25,40,23,15">
+        <Image HorizontalAlignment="Center" Source="https://s1.ax1x.com/2023/06/07/pCFC7dK.png" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" FontSize="35" HorizontalAlignment="Center"
+            Text="XPVPer" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" FontSize="20" HorizontalAlignment="Center"
+            Text="一个专注于美观和PVP的Minecraft整合包" />
+        <local:MyButton Width="250" Height="35" HorizontalAlignment="center" Padding="13,0,13,0"
+            Text="前往项目主页" EventType="打开网页" EventData="https://github.com/BlockHaity/XPVPer" />
+    </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="XPVPer版本信息" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+    <StackPanel Margin="25,40,23,15">
+    <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+        Text="整合包版本：Pre-Release V0.2" />
+    <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+        Text="Minecraft版本：1.8.9" />
+    <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+        Text="主页文件版本：Pre-Release V0.2-1" />
+    </StackPanel>
+</local:MyCard>
